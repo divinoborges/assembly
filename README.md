@@ -1,5 +1,3 @@
-# Assembly Programs
-
 ![Cover Image](cover.png)
 
 This repository contains several simple Assembly programs written for the Linux operating system using NASM (Netwide Assembler) and system calls via `int 0x80`.

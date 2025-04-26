@@ -1,8 +1,8 @@
 # Assembly Programs
 
-This repository contains several simple Assembly programs written for the Linux operating system using NASM (Netwide Assembler) and system calls via `int 0x80`.
+![Cover Image](cover.png)
 
-Each program demonstrates basic input/output and arithmetic operations.
+This repository contains several simple Assembly programs written for the Linux operating system using NASM (Netwide Assembler) and system calls via `int 0x80`.
 
 ## Programs
 
@@ -66,3 +66,5 @@ Replace `program.asm` with the path to the desired file you want to assemble and
 - Ensure you have `nasm` installed (`sudo apt install nasm` on Debian-based systems).
 - Input handling is basic and expects single or two-character inputs for numbers.
 
+
+`
